@@ -1,7 +1,7 @@
 # Thực hành IoT: Lập trình Python với giao thức AMQP
 
 - **Sinh viên:** Lê Cao Phong – B23DCCN644
-- **Môn:** Thực hành IoT (IOT_N19_TH2) – PTIT
+- **Môn:** IOT và ứng – PTIT
 
 ## 1. Broker sử dụng
 
