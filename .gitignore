@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Log sinh ra khi chạy chương trình
+logs/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
